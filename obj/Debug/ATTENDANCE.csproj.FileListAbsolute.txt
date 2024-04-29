@@ -1,0 +1,11 @@
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\bin\Debug\ATTENDANCE.exe.config
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\bin\Debug\ATTENDANCE.exe
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\bin\Debug\ATTENDANCE.pdb
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\obj\Debug\ATTENDANCE.csproj.AssemblyReference.cache
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\obj\Debug\ATTENDANCE.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\obj\Debug\ATTENDANCE.Form1.resources
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\obj\Debug\ATTENDANCE.Properties.Resources.resources
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\obj\Debug\ATTENDANCE.csproj.GenerateResource.cache
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\obj\Debug\ATTENDANCE.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\obj\Debug\ATTENDANCE.exe
+C:\Users\adrian\Desktop\CODE-GROUND\1-TEST-GROUND\ATTENDANCE\obj\Debug\ATTENDANCE.pdb
